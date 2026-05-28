@@ -1,6 +1,6 @@
 # DigiByte Bootstrap Archive — AWM Mining
 
-> Maintained by [AwfulWaffleMining.com](https://awfulwafflemining.com) — a DGB solo mining pool.
+> Maintained by [AwfulWaffleMining.com](https://awfulwafflemining.com) — where all of AI goes to hash.
 > Last updated: **[PENDING — sync in progress]**
 
 ---

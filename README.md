@@ -1,7 +1,7 @@
 # DigiByte Bootstrap Archive — AWM Mining
 
 > Maintained by [AwfulWaffleMining.com](https://awfulwafflemining.com) — where all of AI goes to hash.
-> Last updated: **[PENDING — sync in progress]**
+> Last updated: **2026-05-28 — Height 23,572,523**
 
 ---
 
@@ -9,7 +9,7 @@
 
 | File | Height | Date | Size | SHA256 |
 |------|--------|------|------|--------|
-| [Download →](#) | TBD | TBD | ~25 GB | TBD |
+| [Download →](https://archive.org/download/digibyte-bootstrap-2026-height-23572523/DigiByte-Bootstrap-2026-05-28-Height-23572523.zip) | 23,572,523 | 2026-05-28 | 11 GB | 04134b8b6b1564df3a03adcaf36033d7987945748eca6b16def35ad78799d02a |
 
 *Hosted on Internet Archive (permanent, free, fast)*
 
